@@ -18,9 +18,6 @@
 <a href=https://www.linux.org/> 
   <img src=https://skillicons.dev/icons?i=linux alt=linux width=40 height=40/>
 </a>
-<a href=https://n8n.io/> 
-  <img src=https://github.com/user-attachments/assets/28f75871-6eb1-44c1-94d3-f233d01bac5a alt=linux width=40 height=40/>
-</a>
 <a href=https://www.python.org/> 
   <img src=https://skillicons.dev/icons?i=python alt=python width=40 height=40/>
 </a>
@@ -35,7 +32,7 @@
 </a>
 </p>
 
-<p><img align=left src=https://github-readme-stats.vercel.app/api/top-langs?username=gustavoxffff&show_icons=true&locale=en&layout=compact&langs_count=20&hide=tcc-sga&exclude_repo=tcc-sga alt=gustavoxffff /></p>
+<p><img align=left src=https://github-readme-stats.vercel.app/api/top-langs?username=gustavoxffff&show_icons=true&locale=en&layout=compact&langs_count=20&hide=tcc-sga&exclude_repo=tcc-sga&theme=merko alt=gustavoxffff /></p>
 
-<p>&nbsp;<img align=center src=https://github-readme-stats.vercel.app/api?username=gustavoxffff&show_icons=true&locale=en alt=gustavoxffff /></p>
+<p>&nbsp;<img align=center src=https://github-readme-stats.vercel.app/api?username=gustavoxffff&show_icons=true&locale=en&theme=merko alt=gustavoxffff /></p>
 
