@@ -31,8 +31,3 @@
   <img src=https://skillicons.dev/icons?i=spring alt=spring width=40 height=40/>
 </a>
 </p>
-
-<p><img align=left src=https://github-readme-stats.vercel.app/api/top-langs?username=gustavoxffff&show_icons=true&locale=en&layout=compact&langs_count=20&hide=tcc-sga&exclude_repo=tcc-sga&theme=merko alt=gustavoxffff /></p>
-
-<p>&nbsp;<img align=center src=https://github-readme-stats.vercel.app/api?username=gustavoxffff&show_icons=true&locale=en&theme=merko alt=gustavoxffff /></p>
-
