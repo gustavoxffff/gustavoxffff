@@ -25,9 +25,15 @@
   <img src=https://skillicons.dev/icons?i=postgres alt=postgresql width=40 height=40/>
 </a>
 <a href=https://redis.io/>
-  <img src=https://skillicons.dev/icons?i=redis alt=spring width=40 height=40/>
+  <img src=https://skillicons.dev/icons?i=redis alt=redis width=40 height=40/>
 </a>
-<a href=https://spring.io/>
-  <img src=https://skillicons.dev/icons?i=spring alt=spring width=40 height=40/>
+<a href=https://go.dev/>
+  <img src=https://skillicons.dev/icons?i=go alt=golang width=40 height=40/>
+</a>
+<a href=https://sentry.io/>
+  <img src=https://skillicons.dev/icons?i=sentry alt=sentry width=40 height=40/>
+</a>
+<a href=https://www.typescriptlang.org/>
+  <img src=https://skillicons.dev/icons?i=ts alt=typescript width=40 height=40/>
 </a>
 </p>
